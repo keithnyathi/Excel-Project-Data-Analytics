@@ -1,5 +1,5 @@
 # Excel Project Data Analytics
-This repositoryy will contain my first projects demonstrating my new found skills in excel and data analysis.
+This repository will contain my first projects demonstrating my new found skills in excel and data analysis.
 
 
 # Project 1 
