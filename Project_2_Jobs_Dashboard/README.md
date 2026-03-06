@@ -21,12 +21,7 @@
  - Data Validation  
     <img width="317" height="252" alt="Project_2_Data_Validation" src="https://github.com/user-attachments/assets/17de5de1-dbdd-4d16-9edf-df26947893ed" />
 
- - Pivot Tables and Charts
-
-   
-
-
-*For this project, I had to take raw unfiltered data and learn how to manually clean it up and organise it in a way that would allow for analyses and thus drawing of insights*
+ - Pivot Tables and Charts  
 
 **As a first timer and also through following a tutorial, i was a able to create a dashboard that allows filtering of:**  
 1.👨‍💻 Job Title  
