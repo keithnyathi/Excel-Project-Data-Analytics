@@ -27,3 +27,7 @@
 
 
 ## Key Insights
+- *Out of the 10 types of jobs used in the dataset for analysis, 9 of the jobs have higher median salaries in the U.S when compared to Non-US job postings*
+- *Higher median salaries have a strong correlation to skills such as Python, SQL*
+- *Most data science related jobs have a high skill likelhood of skills such as SQL, Python,with excel being more prevalent in analyst jobs*
+- *More technical skills such as SQL, Python, Excel, Tableau means higher median salary in general, however, for analyst roles the margin seems higher than jobs where the focus is in engineering*
