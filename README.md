@@ -14,3 +14,7 @@ For this project I worked on creating a dashboard that allows analysis of differ
 
 
 # Project 2
+
+In Project 2 of this repository, I used my newly learned knowledge of advanced excel or the power side of excel *Power Query* to extract, transform and load data into excel , as well as to also use *Power Pivot* to create relationships between my data making it easier to analyse and draw conclusions from the job data 
+
+[Here's a link to the whole analysis](Project_3_Jobs_Analysis)
