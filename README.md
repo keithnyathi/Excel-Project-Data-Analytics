@@ -18,3 +18,11 @@ For this project I worked on creating a dashboard that allows analysis of differ
 In Project 2 of this repository, I used my newly learned knowledge of advanced excel or the power side of excel *Power Query* to extract, transform and load data into excel , as well as to also use *Power Pivot* to create relationships between my data making it easier to analyse and draw conclusions from the job data 
 
 [Here's a link to the whole analysis](Project_3_Jobs_Analysis)
+
+### Power Query
+<img width="1671" height="916" alt="Power_Query" src="https://github.com/user-attachments/assets/3afb778f-6b0e-4914-839a-78a6790177ca" />
+
+### Power Pivot
+<img width="1900" height="911" alt="Power_Pivot_1" src="https://github.com/user-attachments/assets/e01c68f0-d6ad-4d3b-be42-519299161712" />  
+<img width="763" height="596" alt="Power_Pivot_2" src="https://github.com/user-attachments/assets/4633f11d-a094-4d91-9dce-fdcfcaf0f98c" />
+
