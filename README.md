@@ -9,7 +9,8 @@ For this project I worked on creating a dahsboard that allows analysis of differ
 
 [Here's a link to the dashboard](Project_2_Jobs_Dashboard)
 
-![Dashboard]()
+
+<img width="1771" height="725" alt="Salary_dashboard_" src="https://github.com/user-attachments/assets/46127b00-463e-4132-8c99-3552de3f3969" />
 
 
 # Project 2
