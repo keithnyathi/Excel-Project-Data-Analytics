@@ -11,6 +11,20 @@
  - How many times are they posted on those platforms?
 
 
+## Skills utilised
+ - Data cleaning (removing duplicates,changing formats,handling null values)
+ - Using formulas `COUNT COUNTIF MAX MIN SUM SORT UNIQUE FILTER MEDIAN`  <img width="465" height="177" alt="Project_2_Formulas" src="https://github.com/user-attachments/assets/812f2d2b-5623-4515-8380-b83256bcf810" />
+
+ - Advanced Formulas `XLOOKUP VLOOKUP`  
+   <img width="396" height="170" alt="Project_2_Formulas_Xlook_up" src="https://github.com/user-attachments/assets/3373e74d-f1e1-4fa5-a2ae-65f8e28242eb" />
+
+ - Data Validation  
+    <img width="317" height="252" alt="Project_2_Data_Validation" src="https://github.com/user-attachments/assets/17de5de1-dbdd-4d16-9edf-df26947893ed" />
+
+ - Pivot Tables and Charts
+
+   
+
 
 *For this project, I had to take raw unfiltered data and learn how to manually clean it up and organise it in a way that would allow for analyses and thus drawing of insights*
 
