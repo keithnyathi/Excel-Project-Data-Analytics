@@ -37,5 +37,10 @@
 
 **The Dashboard also calculates the *median salary* for each job selected, gives the *top job platform* based on the location/country of the job and does a *count* for how many times the job is advertised or published on those platforms**
 
+## Key insights
+- *According to the data, for roles in senior positions and also requiring comprehensive data science skills such as Data scientists, engineers etc, the median salary range is almost always higher than those in junior positions*
+- *Most jobs are located in countries like the USA, U.K where compensation/salaries are high*
+- *For abot 99% of the roles assessed median salary is higher if the job is fulltime, with temp work coming in last*
+
 
  
