@@ -13,7 +13,9 @@
 
 ## Skills utilised
  - Data cleaning (removing duplicates,changing formats,handling null values)
- - Using formulas `COUNT COUNTIF MAX MIN SUM SORT UNIQUE FILTER MEDIAN`  <img width="465" height="177" alt="Project_2_Formulas" src="https://github.com/user-attachments/assets/812f2d2b-5623-4515-8380-b83256bcf810" />
+ - Using formulas `COUNT COUNTIF MAX MIN SUM SORT UNIQUE FILTER MEDIAN`
+   
+   <img width="465" height="177" alt="Project_2_Formulas" src="https://github.com/user-attachments/assets/812f2d2b-5623-4515-8380-b83256bcf810" />
 
  - Advanced Formulas `XLOOKUP VLOOKUP`  
    <img width="396" height="170" alt="Project_2_Formulas_Xlook_up" src="https://github.com/user-attachments/assets/3373e74d-f1e1-4fa5-a2ae-65f8e28242eb" />
