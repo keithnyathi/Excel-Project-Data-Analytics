@@ -14,7 +14,9 @@
 ## Skills Utilized
  - Power Query`ETL`  <img width="1671" height="916" alt="Power_Query" src="https://github.com/user-attachments/assets/4aa4e2fb-6f2e-4f30-867f-412a2ebecee9" />
 
- - Power Pivot `RELATIONSHIPS`    <img width="763" height="596" alt="Power_Pivot_2" src="https://github.com/user-attachments/assets/859f5660-449d-42db-bb54-a3ba48de9882" />
+ - Power Pivot `RELATIONSHIPS`
+   
+   <img width="763" height="596" alt="Power_Pivot_2" src="https://github.com/user-attachments/assets/859f5660-449d-42db-bb54-a3ba48de9882" />
 
  - Pivot  Tables & Pivot Charts  <img width="986" height="493" alt="Skil_Salary_Analysis" src="https://github.com/user-attachments/assets/17a08098-3f49-4fc7-8f15-07631750cbf3" />
 
